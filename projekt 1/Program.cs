@@ -51,6 +51,7 @@ namespace projekt_1
                     Console.WriteLine("podałeś nieprawidłowe dane");
                     continue;
                 }
+
                 return month;
             }
             
